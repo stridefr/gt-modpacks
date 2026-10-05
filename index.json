@@ -1,3 +1,15 @@
 {
-  "packs": []
+  "packs": [
+    {
+      "code": "B68N",
+      "name": "E2E test pack (auto-deleted)",
+      "latestVersion": 1,
+      "featured": false,
+      "updatedAt": "2026-10-05T10:53:09.556Z",
+      "description": "temporary",
+      "modCount": 1,
+      "sizeBytes": 2076,
+      "createdBy": "stridefr"
+    }
+  ]
 }
