@@ -1,0 +1,23 @@
+{
+  "code": "DDR3",
+  "name": "E2E test pack (auto-deleted)",
+  "version": 2,
+  "gameBuildId": "123",
+  "bepinexVersion": "5.4.23.2",
+  "createdBy": "stridefr",
+  "createdAt": "2026-10-05T10:46:11.136Z",
+  "files": [
+    {
+      "path": "BepInEx/plugins/E2ETestMod/E2ETestMod.dll",
+      "sha256": "b5f1af953189c665d86d15ebd4ccdf66a0077f57256edf29b4c274a09f873cf0",
+      "size": 2048,
+      "release": "blobs-1"
+    },
+    {
+      "path": "BepInEx/config/e2e.cfg",
+      "sha256": "60d1da81f592b79d4a62099941af269d7191611d508b963221c59103340fbb36",
+      "size": 27,
+      "release": "blobs-1"
+    }
+  ]
+}
