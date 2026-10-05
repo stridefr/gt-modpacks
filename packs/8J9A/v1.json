@@ -1,0 +1,23 @@
+{
+  "code": "8J9A",
+  "name": "E2E test pack (auto-deleted)",
+  "version": 1,
+  "gameBuildId": "123",
+  "bepinexVersion": "5.4.23.2",
+  "createdBy": "stridefr",
+  "createdAt": "2026-10-05T10:41:02.210Z",
+  "files": [
+    {
+      "path": "BepInEx/plugins/E2ETestMod/E2ETestMod.dll",
+      "sha256": "0dc87a31ce3d922cda9f82455769236328f1b07bbf4277513f6e27a361ca940f",
+      "size": 2048,
+      "release": "blobs-1"
+    },
+    {
+      "path": "BepInEx/config/e2e.cfg",
+      "sha256": "6e583049fb7089dfc4140f7f192bb6c5a3c7a61e62042b102e70773d096d5e2b",
+      "size": 28,
+      "release": "blobs-1"
+    }
+  ]
+}
