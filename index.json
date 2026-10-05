@@ -3,12 +3,12 @@
     {
       "code": "DDR3",
       "name": "E2E test pack (auto-deleted)",
-      "latestVersion": 1,
+      "latestVersion": 2,
       "featured": false,
-      "updatedAt": "2026-10-05T10:46:04.935Z",
+      "updatedAt": "2026-10-05T10:46:12.235Z",
       "description": "temporary",
       "modCount": 1,
-      "sizeBytes": 2076,
+      "sizeBytes": 2075,
       "createdBy": "stridefr"
     }
   ]
