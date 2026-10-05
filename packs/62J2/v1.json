@@ -1,0 +1,23 @@
+{
+  "code": "62J2",
+  "name": "E2E test pack (auto-deleted)",
+  "version": 1,
+  "gameBuildId": "123",
+  "bepinexVersion": "5.4.23.2",
+  "createdBy": "stridefr",
+  "createdAt": "2026-10-05T10:44:08.772Z",
+  "files": [
+    {
+      "path": "BepInEx/plugins/E2ETestMod/E2ETestMod.dll",
+      "sha256": "1513df8599451a7406ad63fc60e90c196c3a4b00131227dc41b28242270e1721",
+      "size": 2048,
+      "release": "blobs-1"
+    },
+    {
+      "path": "BepInEx/config/e2e.cfg",
+      "sha256": "d49f454541bea2faa9b61938dcf359562e48d0169f982337f10e7b26523c2da7",
+      "size": 27,
+      "release": "blobs-1"
+    }
+  ]
+}
