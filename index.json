@@ -3,12 +3,12 @@
     {
       "code": "B68N",
       "name": "E2E test pack (auto-deleted)",
-      "latestVersion": 1,
+      "latestVersion": 2,
       "featured": false,
-      "updatedAt": "2026-10-05T10:53:09.556Z",
+      "updatedAt": "2026-10-05T10:53:16.249Z",
       "description": "temporary",
       "modCount": 1,
-      "sizeBytes": 2076,
+      "sizeBytes": 2074,
       "createdBy": "stridefr"
     }
   ]
